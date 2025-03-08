@@ -6,11 +6,10 @@
 
 正在学习的技能：
 - [x] Python
-- [x] C
-- [x] C++
+- [x] C/C++
+- [x] Html
 - [ ] PhotoShop
 - [ ] Premier 
-- [ ] Html
 - [ ] Java
 
 正在看的书：
