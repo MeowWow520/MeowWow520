@@ -1,10 +1,11 @@
-## Hi there 👋
-
 # Myself Introduce
-我是MeowWow520，来自中国。很小的时候我就接触了电脑，当时电脑系统还是Window XP。
-我是一个内向的人，理性的二次元爱好者。喜欢一个人“躲在”角落发呆。
 
-正在学习的技能：
+**Some say this place is where you can mine gold and diamonds!**
+
+I am MeowWow520, from China. I was exposed to computers at a very young age, and back then, the computer system was Windows XP.
+I am an introverted person, a rational anime fan. I like to "hide" in a corner and daydream alone.
+
+Skills Currently Learning:
 - [x] Python
 - [x] C/C++
 - [x] Html
@@ -12,7 +13,7 @@
 - [ ] Premier 
 - [ ] Java
 
-正在看的书：
+Currently Reading:
 - [x] 《编码：隐匿在计算机软硬件背后的语言》
 - [ ] 《网络是如何连接的》
 - [ ] 《跟Wakaba酱一起学网站制作》
