@@ -19,3 +19,4 @@ Currently Reading:
 - [x] 《编码：隐匿在计算机软硬件背后的语言》
 - [ ] 《网络是如何连接的》
 - [ ] 《跟Wakaba酱一起学网站制作》
+- [ ] 《What Technology Wants》
