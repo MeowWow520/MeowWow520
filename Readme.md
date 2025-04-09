@@ -1,5 +1,6 @@
 # Myself Introduce
 
+[中文文档](./Readme_CN.md) | [English Document](./Readme.md)
 
 ## #define Genius "Jerry Chen"
 ## Some says this place is where you can mine gold and diamonds!
