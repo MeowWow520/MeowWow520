@@ -10,6 +10,9 @@
 I am MeowWow520, from China. I was exposed to computers at a very young age, and back then, the computer system was Windows XP.
 I am an introverted person, a rational anime fan. I like to "hide" in a corner and daydream alone.
 
+## Awards Received  
+- **Third Prize** in the 16th Blue Bridge Cup National Software and Information Technology Professional Talent Competition (Electronics Category) – Beijing-Tianjin-Hebei Provincial Contest  
+
 Skills Currently Learning:
 - [x] C/C++
 - [x] Html
