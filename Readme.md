@@ -11,12 +11,15 @@ I am MeowWow520, from China. I was exposed to computers at a very young age, and
 I am an introverted person, a rational anime fan. I like to "hide" in a corner and daydream alone.
 
 Skills Currently Learning:
-- [x] Python
 - [x] C/C++
 - [x] Html
+- [ ] Python
 - [ ] PhotoShop
 - [ ] Premier 
 - [ ] Java
+
+Skills I Have Get:
+- [x] Git & Github
 
 Currently Reading:
 - [x] 《编码：隐匿在计算机软硬件背后的语言》
