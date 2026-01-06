@@ -25,7 +25,7 @@
 - [x] Git & Github
 
 正在阅读的书籍：
-- [x] 《编码：隐匿在计算机软硬件背后的语言》
-- [ ] 《网络是如何连接的》
+- [x] 《Code: The Hidden Language of Computer Hardware and Software》
+- [ ] 《ネットワークはなぜつながるのか — 知っておきたいTCP/IP、LAN、光ファイバの基礎知識》
 - [ ] 《跟Wakaba酱一起学网站制作》
 - [ ] 《What Technology Wants》
