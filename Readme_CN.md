@@ -1,6 +1,6 @@
 # 自我介绍
 
-![img](https://img.shields.io/badge/Author-MeowWow520-pink)  [![Commits](https://img.shields.io/github/commit-activity/w/MeowWow520/Repository_For_Software_Technology)](https://github.com/MeowWow520/Repository_For_Software_Technology) ![Stars](https://img.shields.io/github/stars/MeowWow520) 
+![img](https://img.shields.io/badge/Author-MeowWow520-pink)  [![Commits](https://img.shields.io/github/commit-activity/w/MeowWow520/WokerlinLiyker)](https://github.com/MeowWow520/Repository_For_Software_Technology) ![Stars](https://img.shields.io/github/stars/MeowWow520) 
 
 [中文文档](./Readme_CN.md) | [English Document](./Readme.md)
 
