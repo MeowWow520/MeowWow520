@@ -17,8 +17,6 @@ Skills Currently Learning:
 - [x] C/C++
 - [x] Html
 - [ ] Python
-- [ ] PhotoShop
-- [ ] Premier 
 - [ ] Java
 
 Skills I Have Get:
