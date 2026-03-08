@@ -17,8 +17,6 @@
 - [x] C/C++
 - [x] Html
 - [ ] Python
-- [ ] PhotoShop
-- [ ] Premier 
 - [ ] Java
 
 已经学会的技能：
