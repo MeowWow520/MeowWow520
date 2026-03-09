@@ -15,7 +15,7 @@
 
 正在学习的技能：
 - [x] C/C++
-- [x] Html
+- [x] Html & CSS
 - [ ] Python
 - [ ] Java
 
