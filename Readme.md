@@ -15,7 +15,7 @@ I am an introverted person, a rational anime fan. I like to "hide" in a corner a
 
 Skills Currently Learning:
 - [x] C/C++
-- [x] Html
+- [x] Html & CSS
 - [ ] Python
 - [ ] Java
 
