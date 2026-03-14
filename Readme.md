@@ -4,6 +4,8 @@
 
 [中文文档](./Readme_CN.md) | [English Document](./Readme.md)
 
+## Read Count
+![img](https://count.getloli.com/@GithubRepoMeowWow520Readme?name=GithubRepoMeowWow520Readme&theme=rule34&padding=8&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 ## Some says this place is where you can mine gold and diamonds!
 
