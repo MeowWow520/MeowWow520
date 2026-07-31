@@ -10,7 +10,4 @@
 I am MeowWow520, from China. I was exposed to computers at a very young age, and back then, the popular computer system was Windows XP.
 I am an introverted person, a rational anime fan. I like to "hide" in a corner and daydream alone.
 
-## Awards Received  
-- **Third Prize** in the 16th LanQiao Cup National Software and Information Technology Professional Talent Competition (Electronics Category) – Beijing-Tianjin-Hebei Provincial Contest  
-
 MeowWow520@hotmail.com
