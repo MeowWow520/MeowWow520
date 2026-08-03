@@ -10,4 +10,4 @@
 I am MeowWow520, from China. I was exposed to computers at a very young age, and back then, the popular computer system was Windows XP.
 I am an introverted person, a rational anime fan. I like to "hide" in a corner and daydream alone.
 
-MeowWow520@hotmail.com
+e-mail@meowwow520.cn
